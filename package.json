@@ -27,6 +27,7 @@
   },
   "main": "v8-profiler",
   "dependencies": {
+    "bindings": "^1.2.1",
     "nan": "^2.3.2"
   },
   "devDependencies": {
